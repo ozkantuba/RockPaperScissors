@@ -62,7 +62,7 @@ body {
 }
 
 #rock {
-	top:10vw;
+	top:10%;
 
 }
 #rock:hover {
@@ -70,7 +70,7 @@ body {
 }
 
 #paper {
-	top:25vw;
+	top:25%;
 }
 
 #paper:hover {
@@ -78,7 +78,7 @@ body {
 }
 
 #scissors {
-	top:40vw;
+	top:40%;
 
 }
 #scissors:hover {
