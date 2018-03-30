@@ -62,7 +62,7 @@ body {
 }
 
 #rock {
-	top:10%;
+	top:100px;
 
 }
 #rock:hover {
@@ -70,7 +70,7 @@ body {
 }
 
 #paper {
-	top:25%;
+	top:300px;
 }
 
 #paper:hover {
@@ -78,7 +78,7 @@ body {
 }
 
 #scissors {
-	top:40%;
+	top:500px;
 
 }
 #scissors:hover {
